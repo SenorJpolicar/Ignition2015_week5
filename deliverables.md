@@ -23,4 +23,4 @@
 - What are asset tags and why are they used?
 
 ##### Link to Odin Project Basic Routes, Views and Controllers repo: [my odin repo](<linkhere>)
-##### Link to Hartl's Rails Tutorial Chapter 5 repo: [my hartl's repo](<linkhere>)
+##### Link to Hartl's Rails Tutorial Chapter 5 repo: [my hartl's repo](https://github.com/SenorJpolicar/testy-.git)
